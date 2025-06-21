@@ -5,10 +5,10 @@ body {
   font-weight: 400;
   font-size: 1rem;
   background: #fff;
-  background: #F5EEDC; }
+  background: #EDEAE4; }
 
 html {
-  background: #F5EEDC; }
+  background: #EDEAE4; }
 
 ::-moz-selection {
   background: #000;
@@ -598,7 +598,7 @@ h1, h2, h3, h4, h5,
   min-height: 400px;
   overflow: auto;
   background: #fff;
-  background: #F5EEDC;
+  background: #EDEAE4;
   padding: 30px;
   text-align: left;
   position: fixed;
